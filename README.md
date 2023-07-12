@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![Uploading RIYA EXP 1.2_page-0001.jpg…]()
+ ![RIYA EXP 1 2_page-0001](https://github.com/23005672/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/138971519/05a1e0f3-9102-41bf-bc08-dc17eaeec5cd)
+
 
  
  ## RESULT
